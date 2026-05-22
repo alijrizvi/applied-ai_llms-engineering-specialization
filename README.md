@@ -1,4 +1,4 @@
-# ai_llms-engineering-specialization
+# Applied AI Engineering Specialization - LLMs
 
 A polished proof-of-concept demonstrating applied prompt engineering for business analytics.
 
