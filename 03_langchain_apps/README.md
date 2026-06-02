@@ -13,7 +13,6 @@ This LLM will extract a piece of text from PDF files, an internal database, or a
 ---
 
 ## **Skills & Concepts Demonstrated:**
-
 * (AI) Agents
 * Chains
 * Embeddings
