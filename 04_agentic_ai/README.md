@@ -1,8 +1,10 @@
 # **Description:**
 
-**Football Intelligence Network (FIN)**
+### **Football Intelligence Network (FIN)**
 
 Multi-Agent AI System for Sports Intelligence, Hidden Patterns & Trend Detection, and Tactical Forecasting for fans and professionals alike!
+
+### **Course Credits:** DeepLearning.AI's Course "Agentic AI"
 
 ---
 
