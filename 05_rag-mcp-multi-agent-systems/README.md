@@ -10,6 +10,7 @@ I would highly recommend Data Science and AI professionals to take this course i
 * Claude
 * Model Context Protocol (MCP)
 * Retrieval-Augmented Generation (RAG)
+* Separation of Concerns (SOC), Git, Version Control, .gitignore
 * RAG Architecture
 * Task Splitting/Chunk
 * Planning Agent, Agent Loops
