@@ -79,7 +79,6 @@ st.markdown("""
 
 with st.sidebar:
     st.markdown("## **Ali J. Rizvi**")
-    st.markdown("**Capstone — AI Engineering Specialization**")
     st.markdown("""
         <div style="display: flex; gap: 16px; align-items: center; margin-top: 6px; margin-bottom: 6px;">
             <a href="https://github.com/alijrizvi" target="_blank" title="GitHub">
@@ -96,6 +95,7 @@ with st.sidebar:
             </a>
         </div>
     """, unsafe_allow_html = True)
+    st.markdown("**Capstone — AI Engineering Specialization**")
     st.markdown("---")
     st.markdown("### 🧠 DocuMind")
     st.markdown("*AI Knowledge Agent Platform*")
