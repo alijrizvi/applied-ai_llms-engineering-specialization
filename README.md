@@ -2,7 +2,9 @@
 
 ---
 
-### Link to Cloud-Deployed Dashboard: end-to-end-ai-eng-automated-agent-capstone-alijr.streamlit.app
+### Link to Cloud-Deployed Dashboard:
+
+**end-to-end-ai-eng-automated-agent-capstone-alijr.streamlit.app**
 
 ---
 
